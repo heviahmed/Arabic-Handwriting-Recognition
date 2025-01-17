@@ -1,0 +1,14 @@
+
+Hi  
+
+I hope this message finds you well. I am currently working on a handwriting recognition project for Kurdish text and came across your impressive work on Arabic handwritten recognition  
+
+I am interested in testing my dataset with your model, but I am unsure how to preprocess my data to match the requirements of your model. Could you kindly share details about the preprocessing steps you applied to your dataset? Specifically, I would appreciate any guidance on:  
+- Image resizing or normalization steps  
+- Any augmentation techniques you used  
+- The expected input format for the model  
+
+Thank you so much for your time and for sharing your work. Your help would be greatly appreciated as it would contribute significantly to my research.  
+
+Best regards,  
+hevi.ahmad1996@gmail.com
